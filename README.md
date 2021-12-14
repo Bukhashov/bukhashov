@@ -7,6 +7,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://github.com/Bukhashov?tab=repositories&q=&type=&language=javascript&sort=)
 [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ffffff)](https://github.com/Bukhashov?tab=repositories&q=&type=&language=javascript&sort=)
 [![Flutter](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://github.com/Bukhashov?tab=repositories&q=&type=&language=javascript&sort=)
-[![](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)](https://github.com/Bukhashov?tab=repositories&q=&type=&language=html&sort=)
+[![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)](https://github.com/Bukhashov?tab=repositories&q=&type=&language=html&sort=)
+
+### Follow Me:
+[![Facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&)](https://www.facebook.com/berik.bukhashov/)
+[![vkontakte](https://img.shields.io/badge/vkontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/buxashov)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&)](https://www.instagram.com/berik_bukhashov)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&)]()
 
 
