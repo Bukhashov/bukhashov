@@ -1,6 +1,6 @@
 [![Header](https://github.com/Bukhashov/bukhashov/blob/main/assets/header.png)](https://github.com/Bukhashov)
 
-## I'm student at the karaganda university and Software Engineer
+## I'm student at the karaganda university
 
 ### Languages and Tools
 [![C++](https://img.shields.io/badge/C%2b%2b-000000?style=for-the-badge&logo=C%2b%2b)](https://github.com/Bukhashov?tab=repositories&q=css&type=&language=c%2B%2B&sort=)
