@@ -14,7 +14,7 @@
 ### Follow Me:
 [![Facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&)](https://www.facebook.com/berik.bukhashov/)
 [![vkontakte](https://img.shields.io/badge/vkontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/buxashov)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&)](https://www.instagram.com/berik_bukhashov)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&)](https://www.instagram.com/berikbukhashov/)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&)]()
 
 
